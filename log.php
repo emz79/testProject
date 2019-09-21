@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-log
+log2
 </body>
 </html>
