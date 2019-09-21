@@ -4,6 +4,6 @@
   </head>
   
   <body>
-      <div class="git">hello world!</div>
+      <div class="git">hello w!</div>
   </body>
 </html>
